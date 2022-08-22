@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import Turtles from "./reptiles/Turtles";
 import Snakes from "./reptiles/Snakes";
@@ -7,17 +7,17 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./reptiles/Home";
 
 function App() {
-  const [turtles, setTurtles] = useState([])
-  const [snakes, setSnakes] = useState([])
-  const [lizards, setLizards] = useState([])
+  const [turtles, setTurtles] = useState([]);
+  const [snakes, setSnakes] = useState([]);
+  const [lizards, setLizards] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/reptiles`)
+    fetch(`http://localhost:8004/reptiles`)
       .then((res) => res.json())
       .then((data) => {
-        setTurtles(data[0].turtles)
-        setSnakes(data[1].snakes)
-        setLizards(data[2].lizards)
+        setTurtles(data[0].turtles);
+        setSnakes(data[1].snakes);
+        setLizards(data[2].lizards);
       });
   }, []);
 
