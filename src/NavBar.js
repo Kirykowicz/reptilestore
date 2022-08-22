@@ -4,7 +4,7 @@ export default function NavBar() {
   return (
     <nav className="nav">
       <Link to="/" className="site-title">
-        The Reptile Store test changes more tests
+        The Reptile Store
       </Link>
       <ul>
         <NavLink to="/turtles">Turtles</NavLink>
