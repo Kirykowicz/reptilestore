@@ -1,0 +1,124 @@
+{
+    "reptiles": [
+    {
+        "turtles": [
+        {
+            "id": 1,
+            "species": "Fly River Pig-nosed Turtle",
+            "image": "./images/aloe.jpg",
+            "price": 1599.99
+        },
+        {
+            "id": 2,
+            "species": "Common Snapping Turtle",
+            "image": "./images/zz-plant.jpg",
+            "price": 39.99
+        },
+        {
+            "id": 3,
+            "species": "Mexican Musk Turtle",
+            "image": "./images/aloe.jpg",
+            "price": 149.99
+        },
+        {
+            "id": 4,
+            "species": "Mata Mata Turtle",
+            "image": "./images/zz-plant.jpg",
+            "price": 399.99
+        },
+        {
+            "id": 5,
+            "species": "Florida Softshell Turtle",
+            "image": "./images/aloe.jpg",
+            "price": 15.99
+        },
+        {
+            "id": 6,
+            "species": "West African Mud Turtle",
+            "image": "./images/zz-plant.jpg",
+            "price": 29.95
+        }
+        ]
+    },
+    {
+        "snakes": [
+        {
+            "id": 11,
+            "species": "Ball Python",
+            "image": "./images/aloe.jpg",
+            "price": 49.99
+        },
+        {
+            "id": 12,
+            "species": "Saharan Sand Boa",
+            "image": "./images/zz-plant.jpg",
+            "price": 49.99
+        },
+        {
+            "id": 13,
+            "species": "Burmese Python",
+            "image": "./images/aloe.jpg",
+            "price": 224.99
+        },
+        {
+            "id": 14,
+            "species": "Emerald Tree Boa",
+            "image": "./images/zz-plant.jpg",
+            "price": 349.99
+        },
+        {
+            "id": 15,
+            "species": "Suriname Redtail Boa",
+            "image": "./images/aloe.jpg",
+            "price": 349.99
+        },
+        {
+            "id": 16,
+            "species": "Ghost Kingsnake",
+            "image": "./images/zz-plant.jpg",
+            "price": 149.99
+        }
+        ]
+    },
+    {
+        "lizards": [
+        {
+            "id": 21,
+            "species": "Green Basilisk",
+            "image": "./images/aloe.jpg",
+            "price": 119.99
+        },
+        {
+            "id": 22,
+            "species": "Frilled Dragon",
+            "image": "./images/zz-plant.jpg",
+            "price": 399.99
+        },
+        {
+            "id": 23,
+            "species": "Argentina Blue Tegu",
+            "image": "./images/aloe.jpg",
+            "price": 249.99
+        },
+        {
+            "id": 24,
+            "species": "Caledonian Giant Gecko",
+            "image": "./images/zz-plant.jpg",
+            "price": 25.98
+        },
+        {
+            "id": 25,
+            "species": "Eastern Legless Lizard",
+            "image": "./images/aloe.jpg",
+            "price": 24.99
+        },
+        {
+            "id": 26,
+            "species": "Flying Draco Lizard",
+            "image": "./images/zz-plant.jpg",
+            "price": 24.99
+        }
+        ]
+    }
+    ]
+}
