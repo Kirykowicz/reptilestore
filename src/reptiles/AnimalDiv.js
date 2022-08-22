@@ -1,7 +1,9 @@
+import React from "react";
+
 export default function AnimalDiv({ animal }) {
   return (
     <div>
-      <h2>{animal.name}</h2>
+      <img src={animal.image} />
     </div>
   );
 }

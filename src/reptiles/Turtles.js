@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
+import AnimalDiv from "./AnimalDiv";
 
 export default function Turtles() {
   const [turtles, setTurtles] = useState([]);
@@ -6,10 +7,17 @@ export default function Turtles() {
   useEffect(() => {
     fetch(`http://localhost:3000/reptiles`)
       .then((res) => res.json())
-      .then((res) => setTurtles(res.turtles));
+      .then((res) => {
+        setTurtles(res[0]);
+        console.log(turtles);
+      });
   }, []);
 
-  console.log(turtles);
-
-  return <h1>Here is where the turtles will go!{console.log(turtles)}</h1>;
+  return (
+    <div>
+      {turtles.map((turtle) => (
+        <AnimalDiv animal={turtle} />
+      ))}
+    </div>
+  );
 }
