@@ -69,13 +69,13 @@
         {
             "id": 15,
             "species": "Suriname Redtail Boa",
-            "image": "./images/aloe.jpg",
+            "image": "https://www.reptiledirect.com/wp-content/uploads/2020/11/suriname-red-tail-boa-full-grown.jpg",
             "price": 349.99
         },
         {
             "id": 16,
             "species": "Ghost Kingsnake",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/510/2506/ghostfl1__00017.1573663627.jpg?c=2",
             "price": 149.99
         }
         ]
@@ -85,19 +85,19 @@
         {
             "id": 21,
             "species": "Green Basilisk",
-            "image": "./images/aloe.jpg",
+            "image": "http://3.bp.blogspot.com/-RXqSBCHVWEk/Ub2CieiebDI/AAAAAAAAYB4/P4ogg0Rn9HQ/s1600/Plumed+Basilisk+2.jpg",
             "price": 119.99
         },
         {
             "id": 22,
             "species": "Frilled Dragon",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://jooinn.com/images/frill-necked-lizard-2.jpg",
             "price": 399.99
         },
         {
             "id": 23,
             "species": "Argentina Blue Tegu",
-            "image": "https://nationalzoo.si.edu/sites/default/files/animals/new-caledonian-giant-gecko-04.jpg",
+            "image": "https://alchetron.com/cdn/blue-tegu-6e4cbb67-58e4-446d-b514-15900b5aa9c-resize-750.jpeg",
             "price": 249.99
         },
         {
@@ -109,13 +109,13 @@
         {
             "id": 25,
             "species": "Eastern Legless Lizard",
-            "image": "./images/aloe.jpg",
+            "image": "https://i.pinimg.com/originals/13/94/7a/13947a2d0d46db7efc703ecf780af6d4.jpg",
             "price": 24.99
         },
         {
             "id": 26,
             "species": "Flying Draco Lizard",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://i.pinimg.com/564x/cd/26/aa/cd26aaa715c612383c7e6e47ef998b81.jpg",
             "price": 24.99
         }
         ]
