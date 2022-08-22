@@ -5,37 +5,37 @@
         {
             "id": 1,
             "species": "Fly River Pig-nosed Turtle",
-            "image": "./images/aloe.jpg",
+            "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
             "price": 1599.99
         },
         {
             "id": 2,
             "species": "Common Snapping Turtle",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
             "price": 39.99
         },
         {
             "id": 3,
-            "species": "Mexican Musk Turtle",
-            "image": "./images/aloe.jpg",
+            "species": "Mexican Giant Musk Turtle",
+            "image": "https://cdn10.bigcommerce.com/s-s4f5l4ll/products/610/images/1887/giant_mexican_musk_turtle_750_6__02876.1415045083.1280.1280.jpg?c=2",
             "price": 149.99
         },
         {
             "id": 4,
             "species": "Mata Mata Turtle",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://cpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/9/20/files/2018/05/mata-mata-colleen.jpg",
             "price": 399.99
         },
         {
             "id": 5,
             "species": "Florida Softshell Turtle",
-            "image": "./images/aloe.jpg",
+            "image": "https://img1.wsimg.com/isteam/ip/353d6952-87a7-4dda-bcd6-def53c72643d/ols/809A828F-75F4-4C0C-8523-BF240B980560.jpeg/:/rs=w:1200,h:1200",
             "price": 15.99
         },
         {
             "id": 6,
             "species": "West African Mud Turtle",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
             "price": 29.95
         }
         ]
@@ -45,25 +45,25 @@
         {
             "id": 11,
             "species": "Ball Python",
-            "image": "./images/aloe.jpg",
+            "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
             "price": 49.99
         },
         {
             "id": 12,
             "species": "Saharan Sand Boa",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://cdn.nexternal.com/massimp/images/Eryx%20muelleri_p4372_l_g1481_z650.jpg",
             "price": 49.99
         },
         {
             "id": 13,
             "species": "Burmese Python",
-            "image": "./images/aloe.jpg",
+            "image": "https://www.netclipart.com/pp/m/260-2603913_snake-burmese-python-no-background.png",
             "price": 224.99
         },
         {
             "id": 14,
             "species": "Emerald Tree Boa",
-            "image": "./images/zz-plant.jpg",
+            "image": "https://i.pinimg.com/originals/e3/da/1a/e3da1a8c5747bacc35c64b863f139b10.jpg",
             "price": 349.99
         },
         {
@@ -97,13 +97,13 @@
         {
             "id": 23,
             "species": "Argentina Blue Tegu",
-            "image": "./images/aloe.jpg",
+            "image": "https://nationalzoo.si.edu/sites/default/files/animals/new-caledonian-giant-gecko-04.jpg",
             "price": 249.99
         },
         {
             "id": 24,
-            "species": "Caledonian Giant Gecko",
-            "image": "./images/zz-plant.jpg",
+            "species": "New Caledonian Giant Gecko",
+            "image": "https://www.reptileforums.co.uk/attachments/img_2465-jpg.107173/",
             "price": 25.98
         },
         {
