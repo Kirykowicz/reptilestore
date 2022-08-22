@@ -1,7 +1,7 @@
 import React from "react";
 import AnimalDiv from "./AnimalDiv";
 
-export default function Snakes({ lizards }) {
+export default function Lizards({ lizards }) {
   
   console.log(lizards)
   const lizardList = lizards.map((lizard) => {
