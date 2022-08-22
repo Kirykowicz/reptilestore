@@ -12,7 +12,7 @@ function App() {
   const [lizards, setLizards] = useState([])
 
   useEffect(() => {
-    fetch(`http://localhost:3000/reptiles`)
+    fetch(`http://localhost:8004/reptiles`)
       .then((res) => res.json())
       .then((data) => {
         setTurtles(data[0].turtles)
@@ -27,8 +27,8 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route path="/turtles" element={<Turtles turtles={turtles} />} />
-        <Route path="/lizards" element={<Lizards />} />
-        <Route path="/snakes" element={<Snakes />} />
+        <Route path="/lizards" element={<Lizards lizards={lizards} />} />
+        <Route path="/snakes" element={<Snakes snakes={snakes} />} />
       </Routes>
     </>
   );
