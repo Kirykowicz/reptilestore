@@ -20,11 +20,11 @@ function App() {
         setTurtles(data.filter((reptile) => reptile.type === "turtle"));
         setSnakes(data.filter((reptile) => reptile.type === "snake"));
         setLizards(data.filter((reptile) => reptile.type === "lizard"));
+        setCart(data.filter((reptile) => reptile.type === "cart"));
       });
   }, []);
 
   function addAnimal(animal) {
-    fetch();
     setCart([...cart, animal]);
   }
 
@@ -33,10 +33,19 @@ function App() {
       <NavBar className="container" />
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/turtles" element={<Turtles turtles={turtles} />} />
-        <Route path="/lizards" element={<Lizards lizards={lizards} />} />
-        <Route path="/snakes" element={<Snakes snakes={snakes} />} />
-        <Route path="/cart" element={<Cart />} />
+        <Route
+          path="/turtles"
+          element={<Turtles turtles={turtles} addAnimal={addAnimal} />}
+        />
+        <Route
+          path="/lizards"
+          element={<Lizards lizards={lizards} addAnimal={addAnimal} />}
+        />
+        <Route
+          path="/snakes"
+          element={<Snakes snakes={snakes} addAnimal={addAnimal} />}
+        />
+        <Route path="/cart" element={<Cart cart={cart} />} />
       </Routes>
     </>
   );
