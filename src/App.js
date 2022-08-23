@@ -19,7 +19,7 @@ function App() {
       .then((data) => {
         setTurtles(data.filter((reptile) => reptile.type === "turtle"));
         setSnakes(data.filter((reptile) => reptile.type === "snake"));
-        setLizards(data.filter((reptile) => reptile.type === "lizard"));
+        setLizards(data.filter((reptile) => reptile.type === "snake"));
       });
   }, []);
 
