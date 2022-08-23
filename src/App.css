@@ -6,6 +6,19 @@ body {
   margin: 0;
 }
 
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.animalDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border: solid;
+}
+
 .container {
   margin: 1rem;
   text-align: center;

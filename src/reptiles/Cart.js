@@ -1,7 +1,7 @@
-export default function Cart() {
-  return (
-    <div>
-      <h1>This is where the form will go</h1>
-    </div>
-  );
+export default function Cart({ cart }) {
+  const cartItems = cart.map((item) => {
+    return <h2>{item.species}</h2>;
+  });
+
+  return <div>{cartItems}</div>;
 }

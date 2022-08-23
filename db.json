@@ -42,7 +42,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
       "price": 29.95
     },
-
     {
       "id": 11,
       "type": "snake",
@@ -85,7 +84,6 @@
       "image": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/510/2506/ghostfl1__00017.1573663627.jpg?c=2",
       "price": 149.99
     },
-
     {
       "id": 21,
       "type": "lizard",
@@ -127,6 +125,48 @@
       "species": "Flying Draco Lizard",
       "image": "https://i.pinimg.com/564x/cd/26/aa/cd26aaa715c612383c7e6e47ef998b81.jpg",
       "price": 24.99
+    },
+    {
+      "type": "cart",
+      "species": "Common Snapping Turtle",
+      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
+      "price": 39.99,
+      "id": 28
+    },
+    {
+      "type": "cart",
+      "species": "Fly River Pig-nosed Turtle",
+      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
+      "price": 1599.99,
+      "id": 29
+    },
+    {
+      "type": "cart",
+      "species": "Fly River Pig-nosed Turtle",
+      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
+      "price": 1599.99,
+      "id": 30
+    },
+    {
+      "type": "cart",
+      "species": "Fly River Pig-nosed Turtle",
+      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
+      "price": 1599.99,
+      "id": 31
+    },
+    {
+      "type": "cart",
+      "species": "Ball Python",
+      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
+      "price": 49.99,
+      "id": 32
+    },
+    {
+      "type": "cart",
+      "species": "Ball Python",
+      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
+      "price": 49.99,
+      "id": 33
     }
   ]
 }
