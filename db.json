@@ -1,127 +1,132 @@
 {
   "reptiles": [
     {
-      "turtles": [
-        {
-          "id": 1,
-          "species": "Fly River Pig-nosed Turtle",
-          "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
-          "price": 1599.99
-        },
-        {
-          "id": 2,
-          "species": "Common Snapping Turtle",
-          "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
-          "price": 39.99
-        },
-        {
-          "id": 3,
-          "species": "Mexican Giant Musk Turtle",
-          "image": "https://cdn10.bigcommerce.com/s-s4f5l4ll/products/610/images/1887/giant_mexican_musk_turtle_750_6__02876.1415045083.1280.1280.jpg?c=2",
-          "price": 149.99
-        },
-        {
-          "id": 4,
-          "species": "Mata Mata Turtle",
-          "image": "https://cpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/9/20/files/2018/05/mata-mata-colleen.jpg",
-          "price": 399.99
-        },
-        {
-          "id": 5,
-          "species": "Florida Softshell Turtle",
-          "image": "https://img1.wsimg.com/isteam/ip/353d6952-87a7-4dda-bcd6-def53c72643d/ols/809A828F-75F4-4C0C-8523-BF240B980560.jpeg/:/rs=w:1200,h:1200",
-          "price": 15.99
-        },
-        {
-          "id": 6,
-          "species": "West African Mud Turtle",
-          "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
-          "price": 29.95
-        }
-      ]
+      "id": 1,
+      "type": "turtle",
+      "species": "Fly River Pig-nosed Turtle",
+      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
+      "price": 1599.99
     },
     {
-      "snakes": [
-        {
-          "id": 11,
-          "species": "Ball Python",
-          "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
-          "price": 49.99
-        },
-        {
-          "id": 12,
-          "species": "Saharan Sand Boa",
-          "image": "https://cdn.nexternal.com/massimp/images/Eryx%20muelleri_p4372_l_g1481_z650.jpg",
-          "price": 49.99
-        },
-        {
-          "id": 13,
-          "species": "Burmese Python",
-          "image": "https://www.netclipart.com/pp/m/260-2603913_snake-burmese-python-no-background.png",
-          "price": 224.99
-        },
-        {
-          "id": 14,
-          "species": "Emerald Tree Boa",
-          "image": "https://i.pinimg.com/originals/e3/da/1a/e3da1a8c5747bacc35c64b863f139b10.jpg",
-          "price": 349.99
-        },
-        {
-          "id": 15,
-          "species": "Suriname Redtail Boa",
-          "image": "https://www.reptiledirect.com/wp-content/uploads/2020/11/suriname-red-tail-boa-full-grown.jpg",
-          "price": 349.99
-        },
-        {
-          "id": 16,
-          "species": "Ghost Kingsnake",
-          "image": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/510/2506/ghostfl1__00017.1573663627.jpg?c=2",
-          "price": 149.99
-        }
-      ]
+      "id": 2,
+      "type": "turtle",
+      "species": "Common Snapping Turtle",
+      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
+      "price": 39.99
     },
     {
-      "lizards": [
-        {
-          "id": 21,
-          "species": "Green Basilisk",
-          "image": "http://3.bp.blogspot.com/-RXqSBCHVWEk/Ub2CieiebDI/AAAAAAAAYB4/P4ogg0Rn9HQ/s1600/Plumed+Basilisk+2.jpg",
-          "price": 119.99
-        },
-        {
-          "id": 22,
-          "species": "Frilled Dragon",
-          "image": "https://jooinn.com/images/frill-necked-lizard-2.jpg",
-          "price": 399.99
-        },
-        {
-          "id": 23,
-          "species": "Argentina Blue Tegu",
-          "image": "https://alchetron.com/cdn/blue-tegu-6e4cbb67-58e4-446d-b514-15900b5aa9c-resize-750.jpeg",
-          "price": 249.99
-        },
-        {
-          "id": 24,
-          "species": "New Caledonian Giant Gecko",
-          "image": "https://www.reptileforums.co.uk/attachments/img_2465-jpg.107173/",
-          "price": 25.98
-        },
-        {
-          "id": 25,
-          "species": "Eastern Legless Lizard",
-          "image": "https://i.pinimg.com/originals/13/94/7a/13947a2d0d46db7efc703ecf780af6d4.jpg",
-          "price": 24.99
-        },
-        {
-          "id": 26,
-          "species": "Flying Draco Lizard",
-          "image": "https://i.pinimg.com/564x/cd/26/aa/cd26aaa715c612383c7e6e47ef998b81.jpg",
-          "price": 24.99
-        }
-      ]
+      "id": 3,
+      "type": "turtle",
+      "species": "Mexican Giant Musk Turtle",
+      "image": "https://cdn10.bigcommerce.com/s-s4f5l4ll/products/610/images/1887/giant_mexican_musk_turtle_750_6__02876.1415045083.1280.1280.jpg?c=2",
+      "price": 149.99
     },
     {
-      "cart": []
+      "id": 4,
+      "type": "turtle",
+      "species": "Mata Mata Turtle",
+      "image": "https://cpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/9/20/files/2018/05/mata-mata-colleen.jpg",
+      "price": 399.99
+    },
+    {
+      "id": 5,
+      "type": "turtle",
+      "species": "Florida Softshell Turtle",
+      "image": "https://img1.wsimg.com/isteam/ip/353d6952-87a7-4dda-bcd6-def53c72643d/ols/809A828F-75F4-4C0C-8523-BF240B980560.jpeg/:/rs=w:1200,h:1200",
+      "price": 15.99
+    },
+    {
+      "id": 6,
+      "type": "turtle",
+      "species": "West African Mud Turtle",
+      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
+      "price": 29.95
+    },
+
+    {
+      "id": 11,
+      "type": "snake",
+      "species": "Ball Python",
+      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 12,
+      "type": "snake",
+      "species": "Saharan Sand Boa",
+      "image": "https://cdn.nexternal.com/massimp/images/Eryx%20muelleri_p4372_l_g1481_z650.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 13,
+      "type": "snake",
+      "species": "Burmese Python",
+      "image": "https://www.netclipart.com/pp/m/260-2603913_snake-burmese-python-no-background.png",
+      "price": 224.99
+    },
+    {
+      "id": 14,
+      "type": "snake",
+      "species": "Emerald Tree Boa",
+      "image": "https://i.pinimg.com/originals/e3/da/1a/e3da1a8c5747bacc35c64b863f139b10.jpg",
+      "price": 349.99
+    },
+    {
+      "id": 15,
+      "type": "snake",
+      "species": "Suriname Redtail Boa",
+      "image": "https://www.reptiledirect.com/wp-content/uploads/2020/11/suriname-red-tail-boa-full-grown.jpg",
+      "price": 349.99
+    },
+    {
+      "id": 16,
+      "type": "snake",
+      "species": "Ghost Kingsnake",
+      "image": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/510/2506/ghostfl1__00017.1573663627.jpg?c=2",
+      "price": 149.99
+    },
+
+    {
+      "id": 21,
+      "type": "lizard",
+      "species": "Green Basilisk",
+      "image": "http://3.bp.blogspot.com/-RXqSBCHVWEk/Ub2CieiebDI/AAAAAAAAYB4/P4ogg0Rn9HQ/s1600/Plumed+Basilisk+2.jpg",
+      "price": 119.99
+    },
+    {
+      "id": 22,
+      "type": "lizard",
+      "species": "Frilled Dragon",
+      "image": "https://jooinn.com/images/frill-necked-lizard-2.jpg",
+      "price": 399.99
+    },
+    {
+      "id": 23,
+      "type": "lizard",
+      "species": "Argentina Blue Tegu",
+      "image": "https://alchetron.com/cdn/blue-tegu-6e4cbb67-58e4-446d-b514-15900b5aa9c-resize-750.jpeg",
+      "price": 249.99
+    },
+    {
+      "id": 24,
+      "type": "lizard",
+      "species": "New Caledonian Giant Gecko",
+      "image": "https://www.reptileforums.co.uk/attachments/img_2465-jpg.107173/",
+      "price": 25.98
+    },
+    {
+      "id": 25,
+      "type": "lizard",
+      "species": "Eastern Legless Lizard",
+      "image": "https://i.pinimg.com/originals/13/94/7a/13947a2d0d46db7efc703ecf780af6d4.jpg",
+      "price": 24.99
+    },
+    {
+      "id": 26,
+      "type": "lizard",
+      "species": "Flying Draco Lizard",
+      "image": "https://i.pinimg.com/564x/cd/26/aa/cd26aaa715c612383c7e6e47ef998b81.jpg",
+      "price": 24.99
     }
   ]
 }

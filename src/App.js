@@ -17,11 +17,16 @@ function App() {
     fetch(`http://localhost:8004/reptiles`)
       .then((res) => res.json())
       .then((data) => {
-        setTurtles(data[0].turtles);
-        setSnakes(data[1].snakes);
-        setLizards(data[2].lizards);
+        setTurtles(data.filter((reptile) => reptile.type === "turtle"));
+        setSnakes(data.filter((reptile) => reptile.type === "snake"));
+        setLizards(data.filter((reptile) => reptile.type === "lizard"));
       });
   }, []);
+
+  function addAnimal(animal) {
+    fetch();
+    setCart([...cart, animal]);
+  }
 
   return (
     <>
