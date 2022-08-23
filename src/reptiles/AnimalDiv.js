@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function AnimalDiv({ animal, addAnimal }) {
+
   function addToCart() {
     fetch("http://localhost:8004/reptiles", {
       method: "POST",
@@ -17,15 +18,22 @@ export default function AnimalDiv({ animal, addAnimal }) {
       .then((res) => res.json())
       .then((res) => addAnimal(res));
   }
+  
   return (
     <div className="animalDiv">
-      <img src={animal.image} alt={animal.species} />
-
-      <h3>{animal.species}</h3>
-
-      <button onClick={addToCart}>Add to Cart</button>
-
-      <p>${animal.price}</p>
+      <div>
+        <img src={animal.image} alt={animal.species} />
+        <h3>{animal.species}</h3>
+        <button onClick={addToCart}>Add to Cart</button>
+        <p>${animal.price}</p>
+      </div>
+      <ul>
+        <h3>Description</h3>
+        <li>{animal.fact1}</li>
+        <li>{animal.fact2}</li>
+        <li>{animal.fact3}</li>
+        <li>{animal.fact4}</li>
+      </ul>
     </div>
   );
 }
