@@ -10,6 +10,7 @@ export default function NavBar() {
         <NavLink to="/turtles">Turtles</NavLink>
         <NavLink to="/lizards">Lizards</NavLink>
         <NavLink to="/snakes">Snakes</NavLink>
+        <NavLink to="/cart">Cart</NavLink>
       </ul>
     </nav>
   );
