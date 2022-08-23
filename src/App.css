@@ -4,20 +4,22 @@
 
 body {
   margin: 0;
+  margin-top: 50px;
 }
 
 img {
   height: 200px;
-  width: 200px;
+  margin: 5px;
 }
 
 .animalDiv {
   display: flex;
-  flex-direction: column;
-  justify-content: left;
+  flex-direction: row;
+  justify-content: space-evenly;
   align-items: center;
-  margin: 5px;
+  margin: 5px 50px;
   border: solid;
+  border-radius: 10px;
   background-color: beige;
 }
 
@@ -49,6 +51,10 @@ img {
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
 }
 
 .site-title {
