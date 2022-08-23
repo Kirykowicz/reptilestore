@@ -1,7 +1,12 @@
 export default function Cart({ cart }) {
   const cartItems = cart.map((item) => {
-    return <h2>{item.species}</h2>;
+    return (
+      <li className="cartItem">
+        <h2>{item.species}</h2>
+        <button>remove from cart</button>
+      </li>
+    );
   });
 
-  return <div>{cartItems}</div>;
+  return <ul>{cartItems}</ul>;
 }
