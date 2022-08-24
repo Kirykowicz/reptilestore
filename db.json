@@ -197,6 +197,38 @@
       "fact2": "Approximately 5-9 Inches In Length From Head To Tail",
       "fact3": "Voracious Hunters Feeding On Small Crickets And Other Insects",
       "fact4": "Living Roughly Around 5-10+ Years In Captivity"
+    },
+    {
+      "type": "turtle",
+      "species": "Eastern Painted Turtle",
+      "image": "https://www.backwaterreptiles.com/images/turtles/eastern-painted-turtle-for-sale.jpg",
+      "price": "29.99",
+      "fact1": "A Common Turtle In The Eastern United States",
+      "fact2": "It Eats Bugs, Fish, And Anything Else It Can Put In Its Mouth",
+      "fact3": "These Turtles Can Grow Over 8 Inches Long",
+      "fact4": "It is an easy turtle to maintain and that has made it one of the most commonly owned",
+      "id": 19
+    },
+    {
+      "type": "cart",
+      "species": "Eastern Painted Turtle",
+      "image": "https://www.backwaterreptiles.com/images/turtles/eastern-painted-turtle-for-sale.jpg",
+      "price": "29.99",
+      "id": 20
+    },
+    {
+      "type": "cart",
+      "species": "Common Snapping Turtle",
+      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
+      "price": 39.99,
+      "id": 21
+    },
+    {
+      "type": "cart",
+      "species": "Fly River Pig-nosed Turtle",
+      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
+      "price": 1599.99,
+      "id": 22
     }
   ]
 }
