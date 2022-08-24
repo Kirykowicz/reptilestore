@@ -26,25 +26,27 @@ function App() {
 
   const addNewReptile = (newReptile) => {
     if (newReptile.type === "turtle") {
-      setTurtles([...turtles, newReptile])
+      setTurtles([...turtles, newReptile]);
+    } else if (newReptile.type === "snake") {
+      setSnakes([...snakes, newReptile]);
+    } else if (newReptile.type === "lizard") {
+      setLizards([...lizards, newReptile]);
     }
-    else if (newReptile.type === "snake") {
-      setSnakes([...snakes, newReptile])
-    }
-    else if (newReptile.type === "lizard") {
-      setLizards([...lizards, newReptile])
-    }
-  }
+  };
 
   function addAnimal(animal) {
     setCart([...cart, animal]);
   }
 
   return (
-    <>
+    <main>
       <NavBar className="container" />
       <Routes>
-        <Route exact path="/" element={<Home addNewReptile={addNewReptile} />} />
+        <Route
+          exact
+          path="/"
+          element={<Home addNewReptile={addNewReptile} />}
+        />
         <Route
           path="/turtles"
           element={<Turtles turtles={turtles} addAnimal={addAnimal} />}
@@ -59,7 +61,7 @@ function App() {
         />
         <Route path="/cart" element={<Cart cart={cart} />} />
       </Routes>
-    </>
+    </main>
   );
 }
 
