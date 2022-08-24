@@ -2,10 +2,16 @@ import React from "react";
 import AnimalDiv from "./AnimalDiv";
 
 export default function Lizards({ lizards, addAnimal }) {
-  console.log(lizards);
-  const lizardList = lizards.map((lizard) => {
-    return <AnimalDiv key={lizard.id} animal={lizard} addAnimal={addAnimal} />;
-  });
-
-  return <div>{lizardList}</div>;
+  return (
+    <section>
+      <div className="title">
+        <h2>Lizards</h2>
+      </div>
+      <div>
+        {lizards.map((lizard) => (
+          <AnimalDiv key={lizard.id} animal={lizard} addAnimal={addAnimal} />
+        ))}
+      </div>
+    </section>
+  );
 }
