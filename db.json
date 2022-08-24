@@ -6,10 +6,10 @@
       "species": "Fly River Pig-nosed Turtle",
       "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
       "price": 1599.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "This Is The Only Freshwater Turtle With Flippers Like A Seaturtle",
+      "fact2": "Living Entirely In Water, They Only Come On Land To Lay Eggs",
+      "fact3": "They Can Grow Up To 27.5 Inches Long And Weigh 66lbs",
+      "fact4": "Fly River Turtles Can Live Around 30 Years In Captivity"
     },
     {
       "id": 2,
@@ -61,10 +61,10 @@
       "species": "West African Mud Turtle",
       "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
       "price": 29.95,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Fast And Hungry Little Swimmers Feeding On Turtle Pellets Regularly",
+      "fact2": "Living In Fresh Water From Slow Flowing Rivers To Long Standing Ponds",
+      "fact3": "Adults Will Average In Sizes Around 10-11 Inches In Shell Length",
+      "fact4": "With Proper Care These Turtles Can Live 50+ Years In Captivity"
     },
     {
       "id": 7,
@@ -72,10 +72,10 @@
       "species": "Ball Python",
       "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
       "price": 49.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Brilliantly Colored With Gold, Brown, And Black Patterns From Head To Tail",
+      "fact2": "Approximately 18-24 Inches, Adults Can Grow Up To 4-5 Feet",
+      "fact3": "Constrictor Snake Feeding On Live Hopper Mice Weekly",
+      "fact4": "With Proper Care And Setup These Snakes Can Live 20-25 Years In Captivity"
     },
     {
       "id": 8,
@@ -83,10 +83,10 @@
       "species": "Saharan Sand Boa",
       "image": "https://cdn.nexternal.com/massimp/images/Eryx%20muelleri_p4372_l_g1481_z650.jpg",
       "price": 49.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Very Hardy Species That Comes From The Hot/Dry Desert",
+      "fact2": "Approximately 6-10 Inches, Adults Can Reach Up To 24 Inches In Length",
+      "fact3": "These Will Burrow Under The Sand To Pop Up And Surprise Their Prey",
+      "fact4": "If Kept Properly This Species Can Live Up To 10 Years In Captivity"
     },
     {
       "id": 9,
@@ -94,10 +94,10 @@
       "species": "Burmese Python",
       "image": "https://www.netclipart.com/pp/m/260-2603913_snake-burmese-python-no-background.png",
       "price": 224.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "This Species Is Well Known For Being The Iconic Large Constrictor",
+      "fact2": "Roughly 20-26 Inches In Length, Adults Can Grow Over 20 Feet Long",
+      "fact3": "As An Adult These Are Able To Feed On Rabbits, Chickens, Goats And Pigs",
+      "fact4": "With Proper Care These Pythons Can Live 20-40 Years In Captivity"
     },
     {
       "id": 10,
@@ -105,10 +105,10 @@
       "species": "Emerald Tree Boa",
       "image": "https://i.pinimg.com/originals/e3/da/1a/e3da1a8c5747bacc35c64b863f139b10.jpg",
       "price": 349.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Known for Their Large Teeth, These Can Be Aggressive, So Look Out",
+      "fact2": "Bright Emerald Green Boas And Make For Excellent Display Animals",
+      "fact3": "Full Grown Adults Can Grow 6-7 Feet In Length From Head To Tail",
+      "fact4": "With Proper Care These Boas Can Live Up To 15-20 Years"
     },
     {
       "id": 11,
@@ -116,10 +116,10 @@
       "species": "Suriname Redtail Boa",
       "image": "https://www.reptiledirect.com/wp-content/uploads/2020/11/suriname-red-tail-boa-full-grown.jpg",
       "price": 349.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Also Known As True Redtail Boas Due To The Extreme Color On Their Tail ",
+      "fact2": "Approximately 24 Inches, Adults Can Reach Up To 6-8 Feet In Length",
+      "fact3": "Boas Can Give Birth To 30-50 Live Babies At A Time",
+      "fact4": "With Proper Care And Set Up Care These Boas Are Able To Live Up To 20-25+ Years"
     },
     {
       "id": 12,
@@ -127,10 +127,10 @@
       "species": "Ghost Kingsnake",
       "image": "https://cdn11.bigcommerce.com/s-g64jf8ws/images/stencil/1280x1280/products/510/2506/ghostfl1__00017.1573663627.jpg?c=2",
       "price": 149.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Approximately 15 Inches, Adults Will Average 5 Feet In Length",
+      "fact2": "Will Eat Other Snakes Including Their Own Species And Venomous Snakes",
+      "fact3": "Species Originates From North America Currently Only Found In Florida",
+      "fact4": "With Proper Care These Snakes Can Live Up To 10-15 Years"
     },
     {
       "id": 13,
@@ -138,10 +138,10 @@
       "species": "Green Basilisk",
       "image": "http://3.bp.blogspot.com/-RXqSBCHVWEk/Ub2CieiebDI/AAAAAAAAYB4/P4ogg0Rn9HQ/s1600/Plumed+Basilisk+2.jpg",
       "price": 119.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "This Is Known As The Jesus Lizard Since It Can Run Across Water",
+      "fact2": "Approximately 6-12 Inches, Adults Can Reach Around 2 Feet In Length",
+      "fact3": "These Lizards Are Swift Agile Predators That Feed On Crickets And Meal Worms",
+      "fact4": "With Proper Care And Set Up They Can Live Up To 5-8 Years In Captivity"
     },
     {
       "id": 14,
@@ -149,10 +149,10 @@
       "species": "Frilled Dragon",
       "image": "https://jooinn.com/images/frill-necked-lizard-2.jpg",
       "price": 399.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Known For The Large Frill Around Their Head They Can Stick Out In Defense",
+      "fact2": "About 5-10 Inches, Adults Will Grow To About 18-24 Inches",
+      "fact3": "These Are Docile, Easy To Handle And Great For Beginners",
+      "fact4": "With Proper Care These Lizards Can Live 10-15 Years In Captivity"
     },
     {
       "id": 15,
@@ -160,10 +160,10 @@
       "species": "Argentina Blue Tegu",
       "image": "https://alchetron.com/cdn/blue-tegu-6e4cbb67-58e4-446d-b514-15900b5aa9c-resize-750.jpeg",
       "price": 249.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "These Make Excellent Pets And Are The Dogs Of The Reptile World",
+      "fact2": "About 10-13 Inches, Adults Will Average Around 3-3.5 Feet In Length",
+      "fact3": "Diurnal Hunters, Active During The Day And Sleeping In Burrows At Night",
+      "fact4": "With Proper Care These Tegus Can Live 20-25 Years In Captivity"
     },
     {
       "id": 16,
@@ -171,10 +171,10 @@
       "species": "New Caledonian Giant Gecko",
       "image": "https://www.reptileforums.co.uk/attachments/img_2465-jpg.107173/",
       "price": 25.98,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Can Make Loud Growling Noises, Local People Call Them 'The Devils In The Trees'",
+      "fact2": "A Great Example Of Island Gigantism, They Can Grow Up To 14 Inches",
+      "fact3": "Can Walk Up Glass Using Its Padded Feet Like Other Geckos",
+      "fact4": "Taken Care Of Properly, They Can Live Around 20 Years Long"
     },
     {
       "id": 17,
@@ -182,10 +182,10 @@
       "species": "Eastern Legless Lizard",
       "image": "https://i.pinimg.com/originals/13/94/7a/13947a2d0d46db7efc703ecf780af6d4.jpg",
       "price": 24.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
+      "fact1": "Also Known As 'Glass Lizard', They Have No Legs And Are Not Snakes",
+      "fact2": "About 5-7 Inches, Average 18-24 Inches In Length As Adults",
+      "fact3": "Burrowing Species So Be Sure To Provide A Thick Substrate",
+      "fact4": "With Proper Care These Can Live Up To 8-10 Years In Captivity"
     },
     {
       "id": 18,
@@ -193,52 +193,10 @@
       "species": "Flying Draco Lizard",
       "image": "https://i.pinimg.com/564x/cd/26/aa/cd26aaa715c612383c7e6e47ef998b81.jpg",
       "price": 24.99,
-      "fact1": "This is a reptile",
-      "fact2": "There are many important things you can learn about them",
-      "fact3": "This animal is cold blooded",
-      "fact4": "This animal also looks awesome"
-    },
-    {
-      "type": "cart",
-      "species": "Fly River Pig-nosed Turtle",
-      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
-      "price": 1599.99,
-      "id": 19
-    },
-    {
-      "type": "cart",
-      "species": "Mata Mata Turtle",
-      "image": "https://cpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/9/20/files/2018/05/mata-mata-colleen.jpg",
-      "price": 399.99,
-      "id": 20
-    },
-    {
-      "type": "cart",
-      "species": "West African Mud Turtle",
-      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
-      "price": 29.95,
-      "id": 21
-    },
-    {
-      "type": "cart",
-      "species": "West African Mud Turtle",
-      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/800173L_901_African_Sideneck_Turtle_1800x1800.JPG?v=1547743588",
-      "price": 29.95,
-      "id": 22
-    },
-    {
-      "type": "cart",
-      "species": "Ball Python",
-      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
-      "price": 49.99,
-      "id": 23
-    },
-    {
-      "type": "cart",
-      "species": "Frilled Dragon",
-      "image": "https://jooinn.com/images/frill-necked-lizard-2.jpg",
-      "price": 399.99,
-      "id": 24
+      "fact1": "The True Dragon Of The Sky, Uses Its Ribs To Create A Gliding Wing",
+      "fact2": "Approximately 5-9 Inches In Length From Head To Tail",
+      "fact3": "Voracious Hunters Feeding On Small Crickets And Other Insects",
+      "fact4": "Living Roughly Around 5-10+ Years In Captivity"
     }
   ]
 }
