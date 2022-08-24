@@ -8,5 +8,7 @@ export default function Cart({ cart }) {
     );
   });
 
-  return <ul>{cartItems}</ul>;
+  return (
+      <ul>{cartItems}</ul>
+  );
 }
