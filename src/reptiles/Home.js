@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "../App.css";
 
 export default function Home({addNewReptile}) {
   const [type, setType] = useState("")
@@ -45,12 +46,18 @@ export default function Home({addNewReptile}) {
 
   return (
     <>
-      <div className={"home-page"}>
-        <h1>Welcome to The Reptile Store</h1>
-        <h2>The lace for all your reptile needs</h2>
+      <div className="background-home"></div>
+      <div className="home-page">
+        <div className="head-logo">
+          <h1>Welcome to The Reptile Store</h1>
+          <img src="https://i.pinimg.com/736x/28/f0/2c/28f02c2fbaf3032fb199b544e8d48af0--woodburning-lizards.jpg" alt="lizard logo" />
+        </div>
+        <h2>The place for all your reptile needs</h2>
         <h3>
-          Shop our online store's huge selection of rare and exotic reptiles for sale. 
-          You can buy live turtles, snakes, and lizards, all at unbeatable prices.
+          Shop our online store's huge selection of rare and exotic reptiles for sale.<br />
+          You can buy live turtles, snakes, and lizards, all at unbeatable prices.<br />
+          Every purchase comes with the Reptile Store live on arrival guarantee!<br />
+          Every one of our Reptiles has been bred by professional Herpitologists with quality over quantity in mind.
         </h3>
       </div>
       <div className="new-reptile-form">

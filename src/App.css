@@ -57,25 +57,56 @@ p {
   color: hsl(210, 22%, 49%);
 }
 
+/*.background-img {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://wallpapercave.com/wp/8pH3E4U.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}*/
+
 .home-page {
   display: flex;
+  position: relative;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  margin: 5px 150px;
+  padding: 1rem 1rem;
+  margin: 5px 50px;
   border: solid;
   border-radius: 10px;
-  background-color: beige;
+  border-width: 2px;
+  background-color: rgba(245, 245, 220, 0.7);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.head-logo {
+  display: flex;
+  flex-direction: row;
+}
+
+.head-logo img {
+  position: static;
+  margin: 10px;
+  height: 90px;
+  width: 90px;
+  border-radius: 45px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
 .new-reptile-form {
   box-sizing: content-box;
   display: flex;
+  position: relative;
   flex-direction: column;
   align-items: center;
   padding: 2rem 1rem;
-  margin: 5px 500px;
+  margin: 5px 160px;
+  width: 250px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   border: solid;
+  border-width: 2px;
   border-radius: 10px;
   background-color: rgba(22, 124, 22, 0.5);
 }
@@ -123,6 +154,16 @@ p {
   border: solid;
   border-radius: 6px;
   border-width: 1px;
+}
+
+.background-home {
+  background-image: url("https://wallpapercave.com/wp/8pH3E4U.jpg");
+  background-size: cover;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  top: 56px;
+  height: 100vh;
 }
 
 /* img {
@@ -184,18 +225,29 @@ p {
 }
 
 .cartItem {
-  background-color: yellow;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: beige;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   justify-content: space-evenly;
   align-items: center;
-  flex-direction: row;
-  background-color: beige;
   padding: 10px 20px;
-  margin-right: 30px;
   margin-bottom: 10px;
+  border-radius: 20px;
+}
 
-  border-radius: 50px;
+.cartItem button {
+  display: block;
+  width: 200px;
+  margin: 1rem auto 0 auto;
+  color: darkred;
+  background: transparent;
+  border: 1px solid darkred;
+  text-transform: capitalize;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
 }
 
 .container {
@@ -219,6 +271,12 @@ p {
 
 .site-title {
   font-size: 2rem;
+}
+
+.site-title img {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
 }
 
 .nav ul {
