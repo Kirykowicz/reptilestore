@@ -211,31 +211,10 @@
     },
     {
       "type": "cart",
-      "species": "Eastern Painted Turtle",
-      "image": "https://www.backwaterreptiles.com/images/turtles/eastern-painted-turtle-for-sale.jpg",
-      "price": "29.99",
+      "species": "Ball Python",
+      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
+      "price": 49.99,
       "id": 20
-    },
-    {
-      "type": "cart",
-      "species": "Common Snapping Turtle",
-      "image": "https://cdn.shopify.com/s/files/1/0056/4930/1573/products/805336L_common_snapping_turtle_1200x630.jpg?v=1547744807",
-      "price": 39.99,
-      "id": 21
-    },
-    {
-      "type": "cart",
-      "species": "Fly River Pig-nosed Turtle",
-      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
-      "price": 1599.99,
-      "id": 22
-    },
-    {
-      "type": "cart",
-      "species": "Fly River Pig-nosed Turtle",
-      "image": "https://live.staticflickr.com/3727/9685248767_813ba0f2cc_b.jpg",
-      "price": 1599.99,
-      "id": 23
     }
   ]
 }
