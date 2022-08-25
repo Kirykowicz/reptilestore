@@ -6,6 +6,7 @@ import Lizards from "./reptiles/Lizards";
 import { Route, Routes } from "react-router-dom";
 import Home from "./reptiles/Home";
 import Cart from "./reptiles/Cart";
+import CartEmpty from "./reptiles/CartEmpty";
 
 function App() {
   const [turtles, setTurtles] = useState([]);
@@ -38,6 +39,19 @@ function App() {
     setCart([...cart, animal]);
   }
 
+  function removeFromCart(remove) {
+    setCart(cart.filter((item) => item.id !== remove.id));
+  }
+
+  function isCartEmpty() {
+    if (cart.length !== 0) {
+      return <Cart cart={cart} removeFromCart={removeFromCart} />;
+    } else {
+      return <CartEmpty />;
+    }
+  }
+  // <Cart cart={cart} removeFromCart={removeFromCart} />
+
   return (
     <main>
       <NavBar className="container" />
@@ -59,7 +73,7 @@ function App() {
           path="/snakes"
           element={<Snakes snakes={snakes} addAnimal={addAnimal} />}
         />
-        <Route path="/cart" element={<Cart cart={cart} />} />
+        <Route path="/cart" element={isCartEmpty()} />
       </Routes>
     </main>
   );
