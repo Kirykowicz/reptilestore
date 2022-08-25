@@ -208,13 +208,6 @@
       "fact3": "These Turtles Can Grow Over 8 Inches Long",
       "fact4": "It is an easy turtle to maintain and that has made it one of the most commonly owned",
       "id": 19
-    },
-    {
-      "type": "cart",
-      "species": "Ball Python",
-      "image": "https://ballpython.ca/wp-content/uploads/normal2.jpg",
-      "price": 49.99,
-      "id": 20
     }
   ]
 }
