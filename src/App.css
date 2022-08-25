@@ -31,7 +31,7 @@ h4 {
   letter-spacing: 0.1rem;
   text-transform: capitalize;
   line-height: 1.25;
-  margin-bottom: 0.75rem;
+  /* margin-bottom: 0.75rem; */
 }
 
 h1 {
@@ -225,28 +225,54 @@ p {
 }
 
 .cartItem {
-  display: flex;
-  flex-direction: column;
+  /* display: flex;
+  flex-direction: row;
   background-color: beige;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
   margin-bottom: 10px;
-  border-radius: 20px;
+  border-radius: 20px; */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 1rem;
+  margin: 2rem 0;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.cart-info {
+  /* display: flex;
+  justify-content: space-around; */
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+}
+
+.cart-button {
+  display: flex;
+  justify-content: flex-end;
+  height: 100%;
+  align-items: center;
 }
 
 .cartItem button {
   display: block;
   width: 200px;
-  margin: 1rem auto 0 auto;
+  /* margin: 1rem auto 0 auto; */
   color: darkred;
   background: transparent;
   border: 1px solid darkred;
   text-transform: capitalize;
   font-size: 1rem;
   cursor: pointer;
-  padding: 0.25rem 0.5rem;
+  /* padding: 0.25rem 0.5rem; */
   border-radius: 0.25rem;
 }
 
